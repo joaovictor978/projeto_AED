@@ -1,0 +1,15 @@
+5 
+3 
+2 
+Cardiologia 
+2 
+101Joao 
+102Maria 
+Pediatria 
+1 
+103Carlos
+1 Joao 25 1234567890 70.5 1.75 "Dor no peito" "Medicamento X" 5
+2 Maria 30 9876543210 60.0 1.65 "Dor de cabeça" "Medicamento Y" 3
+3 José 45 1122334455 80.0 1.80 "Falta de ar" "Medicamento Z" 4
+4 Ana 35 2233445566 65.0 1.70 "Febre" "Medicamento A" 2
+5 Paula 50 3344556677 75.0 1.68 "Cólica abdominal" "Medicamento B" 1
